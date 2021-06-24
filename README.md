@@ -1,2 +1,3 @@
-# warpv2
-Custom Lending Pool Generation with Warp Finance.
+# Warp v2
+
+Isolated risk Lending pairs.
